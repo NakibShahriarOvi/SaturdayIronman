@@ -26,6 +26,8 @@ System.out.println("Demo 3 method for singleton class")	;
 }
 
 // change for GIT pull request practice
+// this changes are in review
+// git changes using eclipse
 protected static void demo4(){
 System.out.println("Demo IV method for singleton class")	;
 }
